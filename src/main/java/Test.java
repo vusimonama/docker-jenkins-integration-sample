@@ -3,6 +3,8 @@ public class Test {
     public static void main(String[] args){
         System.out.println("Hello World");
         System.out.println("Generating report");
-        System.out.println("...........");
+        System.out.println("..........");
+
+        System.out.println("Display numbers");
     }
 }
